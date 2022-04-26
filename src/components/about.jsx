@@ -48,6 +48,10 @@ export default class About extends Component {
                         <h4 class="mb-0">Bachelor of Computer Science (Honours) – 1 year research</h4>
                         <div class="subheading mb-3">RMIT University, Melbourne, Australia</div>
                         <p>First Class Honours - GPA: 3.9<br />February 2016 – March 2017</p>
+                        <p>Research paper was published in the Software Technologies: Applications and Foundations (STAF, rank B) 2016, 3rd International Workshop on Human-Oriented Formal Methods (HOFM 2016), Springer
+                            <br />
+                            Link: <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16">http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16</a>
+                        </p>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">

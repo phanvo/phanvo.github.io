@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Another<br/> Portfolio !!! </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://phanvo.herokuapp.com/" target="_blank" rel="noopener noreferrer">View Portfolio <i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://phanvo.herokuapp.com/projects" target="_blank" rel="noopener noreferrer">View Portfolio <i className="icon-book" /></a></p>
                         </div>
                       </div>
                     </div>
