@@ -50,7 +50,7 @@ export default class About extends Component {
                         <p>First Class Honours - GPA: 3.9<br />February 2016 – March 2017</p>
                         <p>Research paper was published in the Software Technologies: Applications and Foundations (STAF, rank B) 2016, 3rd International Workshop on Human-Oriented Formal Methods (HOFM 2016), Springer
                             <br />
-                            Link: <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16">http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16</a>
+                            Link: <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16" target="_blank" rel="noopener noreferrer">http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16</a>
                         </p>
                     </div>
                 </div>
