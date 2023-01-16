@@ -32,7 +32,7 @@ export default class About extends Component {
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Fast Track Software Engineering Technology - Artificial Intelligence</h4>
                         <div class="subheading mb-3">Centennial College, ON, Canada</div>
-                        <p>GPA: 4.38<br />September 2020 - Present</p>
+                        <p>GPA: 4.43<br />September 2020 - December 2022</p>
                     </div>
                     
                 </div>
@@ -40,7 +40,7 @@ export default class About extends Component {
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Post-graduate Computing and Information Systems</h4>
                         <div class="subheading mb-3">Douglas College, BC, Canada</div>
-                        <p>GPA: 4.08<br />January 2020 – August 2020</p>
+                        <p>GPA: 4.08<br />January 2020 - August 2020</p>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
