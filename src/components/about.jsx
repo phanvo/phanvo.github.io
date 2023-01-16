@@ -32,7 +32,7 @@ export default class About extends Component {
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Fast Track Software Engineering Technology - Artificial Intelligence</h4>
                         <div class="subheading mb-3">Centennial College, ON, Canada</div>
-                        <p>GPA: 4.43<br />September 2020 - December 2022</p>
+                        <p>GPA: 4.43/4.5<br />September 2020 - December 2022</p>
                     </div>
                     
                 </div>
@@ -40,14 +40,14 @@ export default class About extends Component {
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Post-graduate Computing and Information Systems</h4>
                         <div class="subheading mb-3">Douglas College, BC, Canada</div>
-                        <p>GPA: 4.08<br />January 2020 - August 2020</p>
+                        <p>GPA: 4.08/4.33<br />January 2020 - August 2020</p>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Bachelor of Computer Science (Honours) – 1 year research</h4>
                         <div class="subheading mb-3">RMIT University, Melbourne, Australia</div>
-                        <p>First Class Honours - GPA: 3.9<br />February 2016 – March 2017</p>
+                        <p>First Class Honours - GPA: 3.9/4.0<br />February 2016 – March 2017</p>
                         <p>Research paper was published in the Software Technologies: Applications and Foundations (STAF, rank B) 2016, 3rd International Workshop on Human-Oriented Formal Methods (HOFM 2016), Springer
                             <br />
                             Link: <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16" target="_blank" rel="noopener noreferrer">http://link.springer.com/chapter/10.1007%2F978-3-319-50230-4_16</a>
@@ -58,7 +58,7 @@ export default class About extends Component {
                     <div class="flex-grow-1">
                         <h4 class="mb-0">Bachelor of Information Technology</h4>
                         <div class="subheading mb-3">RMIT International University, Ho Chi Minh City, Vietnam</div>
-                        <p>GPA: 3.7<br />Graduated in 2012</p>
+                        <p>GPA: 3.7/4.0<br />Graduated in 2012</p>
                     </div>
                 </div>
             </div>
